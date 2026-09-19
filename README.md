@@ -175,3 +175,7 @@ The methodology is identical for the AWS pipeline.
 ## License
 
 Licensed under the Apache License, Version 2.0 — see [`LICENSE`](./LICENSE).
+
+---
+
+⭐ If this saved you time, a star helps others find it.
